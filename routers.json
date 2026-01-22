@@ -1,0 +1,26 @@
+[
+  {
+    "id": "R1",
+    "ip": "192.168.56.2",
+    "port": 830,
+    "username": "netadmin",
+    "password": "Darkdays@3",
+    "status": "disconnected"
+  },
+  {
+    "id": "R2",
+    "ip": "192.168.12.2",
+    "port": 830,
+    "username": "netadmin",
+    "password": "Darkdays@3",
+    "status": "disconnected"
+  },
+  {
+    "id": "R3",
+    "ip": "192.168.13.2",
+    "port": 830,
+    "username": "netadmin",
+    "password": "Darkdays@3",
+    "status": "disconnected"
+  }
+]
