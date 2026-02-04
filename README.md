@@ -11,7 +11,7 @@ Although implemented as a demo application, the project serves as a proof of con
 - OpenDaylight
 - NETCONF/YANG
 - Electron.js (if applicable)
-- GNS3 / VyOS
+- GNS3 / Cisco CR1000V
 
 ## Project Limitations and Demo Application Justification
 **Incomplete Full Implementation
